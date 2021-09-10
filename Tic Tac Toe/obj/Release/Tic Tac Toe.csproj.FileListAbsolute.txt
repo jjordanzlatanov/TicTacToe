@@ -1,0 +1,10 @@
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.exe.config
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.exe
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\bin\Release\Tic Tac Toe.pdb
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic_Tac_Toe.Tic_Tac_Toe.resources
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.exe
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.pdb
+C:\Users\BLOOD\Desktop\RAT IRL\C#\Tic Tac Toe\Tic Tac Toe\obj\Release\Tic Tac Toe.csprojAssemblyReference.cache
